@@ -3,7 +3,7 @@ Zadania z egzaminów praktycznych z kwalifikacji <b>EE.09</b><br> (Programowanie
 # Legenda
 
 <ul>
-  <li>biuro-podrozy-2020 (EE.09 - 02 - 20.06) <div style="color: blue;">[PHP-MySQL]</div></li>
+  <li><div style="font-weight: bold;">biuro-podrozy-2020</div> (EE.09 - 02 - 20.06) [PHP-MySQL]</li>
   <li>pomocnik-matematyczny (EE.09 - 04 - 19.06) [JS]</li>
   <li>zawody-wedkarskie (EE.09 - 03 - 19.06) [PHP-MySQL]</li>
 </ul>
