@@ -1,3 +1,7 @@
+<head>
+  <meta name="google-site-verification" content="AOMSDS1QfKTeW_zpjAkxN3rqdCT_0fWeJCfcUWA-EkA" />
+</head>
+
 # Legenda
 
 | Nazwa         | Oznaczenie        | Rodzaj |
