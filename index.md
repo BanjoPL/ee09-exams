@@ -2,10 +2,10 @@
 
 | Nazwa         | Oznaczenie        | Rodzaj |
 |:--------------|:------------------|:-------|
-| biuro-podrozy-2020 | EE.09 - 02 - 20.06 | PHP & MySQL |
-| pomocnik-matematyczny  | EE.09 - 04 - 19.06 | JavaScript |
-| zawody-wedkarskie | EE.09 - 03 - 19.06 | PHP & MySQL |
-| pogotowie-ratunkowe | EE.09 - 06 - 19.06 | PHP & MySQL |
+| <a href="https://github.com/BanjoPL/ee09-exams/tree/master/biuro-podrozy-2020" target="_blank">biuro-podrozy-2020</a> | EE.09 - 02 - 20.06 | PHP & MySQL |
+| <a href="https://github.com/BanjoPL/ee09-exams/tree/master/pomocnik-matematyczny" target="_blank">pomocnik-matematyczny</a>  | EE.09 - 04 - 19.06 | JavaScript |
+| <a href="https://github.com/BanjoPL/ee09-exams/tree/master/zawody-wedkarskie" target="_blank">zawody-wedkarskie</a> | EE.09 - 03 - 19.06 | PHP & MySQL |
+| <a href="https://github.com/BanjoPL/ee09-exams/tree/master/pogotowie-ratunkowe" target="_blank">pogotowie-ratunkowe</a> | EE.09 - 06 - 19.06 | PHP & MySQL |
 
 
 # Uruchomienie
