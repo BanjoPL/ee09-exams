@@ -13,12 +13,12 @@ W celu pobrania pojedynczego folderu najłatwiej posłużyć się skryptem GitZi
 
 W pole
 >GitHub repo root URL or sub-folder URL
->
+#
 podajemy adres danego folderu.
 
 Na przykład:
 >https://github.com/BanjoPL/ee09-exams/tree/master/pomocnik-matematyczny
->
+#
 Po podaniu adresu pozostaje nam jedynie naciśnąć przycisk Download
 # Uruchomienie
 Aby móc uruchomić zamieszczone tu rozwiązania należy posłużyć się programem XAMPP lub podobnym oferującym Apache, PHP oraz MySQL. 
